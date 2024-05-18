@@ -3,7 +3,7 @@
 
 DataViRe is an easy and powerful reporting tool to automate Grafana and Kibana dashboards into comprehensive reports.
 
-- **Data Sources:** Add the details of your Grafana and Kibana instance and establish the connection. Check the documentation (https://www.datavire.com/documentation/requirements) for the supported Grafana and Kibana versions
+- **Data Sources:** Add the details of your Grafana and Kibana instance and establish the connection. Check the [documentation](https://www.datavire.com/documentation/requirements) for the supported Grafana and Kibana versions
 - **Distribution Channels:** Create the distribution channel, You can configure and establish the connection of any of your Gmail, Sendgrid or Other instance
 - **Filters:** Create your own filters with the template variables. You can assign the created filters to your report
 - **Report Settings:** Change the company logo and change the colors. Your report will be generated based on this
@@ -18,7 +18,7 @@ On further, you can see the real time preview of your PDF report and you can cus
 
 - ## Documentation
 
-DataViRe documentation is available at [datavire.com/documentation](https://www.datavire.com/documentation)
+DataViRe documentation is available at [Documentation Section](https://www.datavire.com/documentation)
 
 ## Contact us
 
